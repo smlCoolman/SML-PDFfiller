@@ -6,3 +6,5 @@ The column headers must correspond to the PDF field names
 Each row creates a new PDF file with the name Output(Column number) 
 It is used when you have to fill out a lot of the same PDF from an Excel file
 Right now you have to change the code to match the PDF fields.  I want to make it where it automatically gets the field names from the column headers
+
+I created this in Google Colab using Python so if you use it you will have to upload the files to the Colab Notebook
